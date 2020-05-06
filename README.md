@@ -14,7 +14,7 @@ input:
 <Python app.py Ben Simmons Damian Lillard>
 
 output:
-
+'''
 +-------------+-------+----------------+  
 | Ben Simmons | STATS | Damian Lillard |  
 +-------------+-------+----------------+  
@@ -44,6 +44,6 @@ output:
 |     2.8     |   PF  |      2.0       |  
 |     16.4    |  PTS  |      24.0      |  
 +-------------+-------+----------------+  
-
+'''
 
 
