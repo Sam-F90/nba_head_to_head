@@ -11,7 +11,7 @@ EX..
 
 input: 
 
-<Python app.py Ben Simmons Damian Lillard>
+`Python app.py Ben Simmons Damian Lillard`
 
 output: 
 
